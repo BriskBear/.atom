@@ -1,0 +1,21 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    reopenProjectMenuCount: 18
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 16
+  "exception-reporting":
+    userId: "3864196f-e082-49e3-b876-f4346527bd6c"
+  github:
+    remoteFetchProtocol: "ssh"
+    reportCannotLocateWorkspaceError: true
+    showDiffIconGutter: true
+  "one-dark-ui":
+    fontSize: 15
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,1 @@
+{"source":"atom-text-editor.editor .markdown-preview.markdown-preview sup {\n  vertical-align: super;\n  font-size: smaller;\n}\n"}

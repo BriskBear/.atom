@@ -1,0 +1,19 @@
+
+(process:37524): Gtk-WARNING **: 20:51:20.366: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[37552:1220/205121.125546:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Identity added: /home/elijahdaniel/.ssh/.pk/id_rsa (fakeone@briskbear.rocks)
+[37552:1220/205122.832326:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[37552:1220/205129.084831:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Identity added: /home/elijahdaniel/.ssh/.pk/id_rsa (fakeone@briskbear.rocks)
+[37552:1220/205130.433944:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:79:22
+Remote event names: crashed, destroyed
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:79:22
+Remote event names: crashed, destroyed
