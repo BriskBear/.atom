@@ -14,14 +14,13 @@
     position: -webkit-sticky;
     position: sticky;
     top: -36px;
-    color: #3c3c3c;
+    color: #1d1f21;
     background-color: #1d1f21;
-    /* text-shadow: 1px 1px 2px white, 0 0 24px green, 0 0 6px darkgreen; */
-    text-shadow: 1px 1px 2px white, 0 0 24px #9a98ae, 0 0 6px #005a87;
+    text-shadow: 1px 1px 2px white, 0 0 24px green, 0 0 6px darkgreen;
     z-index: 3;
   }
   h2 {
-    color: #16559d;
+    color: white;
     padding: 3px;
     position: -webkit-sticky;
     position: sticky;
@@ -45,7 +44,11 @@
       color: #022e45;
       text-decoration: underline;
   }
+  a:active {
+    text-decoration: none;
+  }
   .flex-container {
+    align-items: center;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -54,6 +57,7 @@
   .flex-container > div {
     text-align: center;
     overflow: visible;
+    margin: 3px;
   }
   .resource:link {
     color: white;
@@ -64,7 +68,14 @@
   }
   .resource:hover,.resource:active {
     background-color: #022e45;
-    border-radius: 0px;
+    border-radius: 9px;
+    box-shadow: 3px 6px 12px gray;
+    padding: 6px 6px;
+  }
+  .resource:active {
+    background-color: #707000;
+    border-radius: 9px;
+    box-shadow: 3px 6px 12px #1d1f21 inset;
     padding: 6px 6px;
   }
 }
